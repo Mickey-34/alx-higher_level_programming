@@ -2,8 +2,6 @@
 """
     module inherit list
     """
-
-
 class MyList(list):
     """
         MyList
